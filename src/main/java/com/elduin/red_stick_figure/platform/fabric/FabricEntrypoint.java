@@ -1,8 +1,8 @@
-package com.example.modtemplate.platform.fabric;
+package com.elduin.red_stick_figure.platform.fabric;
 
 //? fabric {
 
-import com.example.modtemplate.ModTemplate;
+import com.elduin.red_stick_figure.RedStickFigure;
 import dev.kikugie.fletching_table.annotation.fabric.Entrypoint;
 import net.fabricmc.api.ModInitializer;
 
@@ -11,7 +11,7 @@ public class FabricEntrypoint implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ModTemplate.onInitialize();
+		RedStickFigure.onInitialize();
 		FabricEventSubscriber.registerEvents();
 	}
 }

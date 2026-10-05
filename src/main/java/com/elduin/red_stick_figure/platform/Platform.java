@@ -1,4 +1,4 @@
-package com.example.modtemplate.platform;
+package com.elduin.red_stick_figure.platform;
 
 public interface Platform {
 	boolean isModLoaded(String modId);

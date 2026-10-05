@@ -1,4 +1,4 @@
-package com.example.modtemplate.platform.fabric.datagen;
+package com.elduin.red_stick_figure.platform.fabric.datagen;
 
 //? fabric {
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;

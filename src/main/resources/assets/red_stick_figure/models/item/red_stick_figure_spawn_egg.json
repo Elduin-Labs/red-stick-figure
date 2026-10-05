@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "red_stick_figure:item/red_stick_figure_spawn_egg"
+  }
+}
